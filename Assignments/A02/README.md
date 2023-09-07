@@ -2,6 +2,6 @@
 ### Michelle Orru
 ### Description:
 ---
-#### - Github : create github repo and markdown
+- Create github repo and markdown
 
-<img src="https://images2.imgbox.com/f6/ef/TN71JNV8_o.png" width="50">
+   <img src="https://images2.imgbox.com/f6/ef/TN71JNV8_o.png" width="40">
