@@ -1,4 +1,4 @@
-## A02 - Establishing Comms
+## A02 - Code Repository
 ### Michelle Orru
 ### Description:
 ---
