@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	
-	"github.com/4143_PLC/P01/mascot"
+	"github.com/michelle083/4143_PLC/Assignments/P01/mascot"
 )
 
 // main driver
