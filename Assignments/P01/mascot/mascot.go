@@ -3,5 +3,5 @@ package mascot
 
 // function to return the name of the best mascot
 func BestMascot() string {
-	return "Mustangs"
+	return "Go Gopher"
 }
