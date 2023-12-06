@@ -8,7 +8,7 @@ This project is going to allow you to utilize the packaging strengths of Go and 
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [img_mod](https://github.com/michelle083/img_mod/tree/main/Grayscale) | Module with 4 packages  |
+|   1   | [img_mod](https://github.com/michelle083/img_mod/tree/main) | Module with 4 packages  |
 |   2   | []() | |
 
 
