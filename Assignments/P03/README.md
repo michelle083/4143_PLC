@@ -8,26 +8,26 @@ This project is going to allow you to utilize the packaging strengths of Go and 
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [img_mod](https://github.com/michelle083/img_mod) |    |
-|   2   | [main.go](https://github.com/michelle083/4143_PLC/edit/main/Assignments/P03/main.go) | main driver|
+|   1   | [img_mod](https://github.com/michelle083/img_mod/tree/main/Grayscale) | Module with 4 packages  |
+|   2   | []() | |
 
 
 ### Instructions
-
+```
 github.com/michelle083/img_mod
 ├── Colors
-│   ├── go.mod
-│   └── main.go
+│   ├── go.mod
+│   └── main.go
 ├── Grayscale
-│   ├── go.mod
-│   └── main.go
+│   ├── go.mod
+│   └── main.go
 └── Text
-│   ├── go.mod
-│   └── main.go
+│   ├── go.mod
+│   └── main.go
 └── GetPic
     ├── go.mod
     └── main.go
-
+```
 
 ### Example Command
 
