@@ -10,7 +10,7 @@ Implement basic concurrency in Go and write a program that concurrently download
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [main.go](https://github.com/michelle083/4143_PLC/blob/main/Assignments/P04/main.go) | main |
 |   2   | [go.mod](https://github.com/michelle083/4143_PLC/blob/main/Assignments/P04/go.mod) | go.mod |
-|   3   | [go.sum](https://github.com/michelle083/4143_PLC/blob/main/Assignments/P04/go.sum) | go.sum |
+|   3   | [images](https://github.com/michelle083/4143_PLC/blob/main/Assignments/P04/images) | downloaded images |
 
 ### Instructions
 
