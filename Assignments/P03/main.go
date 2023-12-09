@@ -21,7 +21,7 @@ func main() {
 	fmt.Print("\n")
 
 	// Call function to get picture from URL
-	GetPic.DownloadPicture()
+	GetPic.DownloadPic()
 
 	// Prints blank space
 	fmt.Print("\n")
